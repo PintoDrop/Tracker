@@ -1,0 +1,40 @@
+.header {
+  padding: 30px;
+  font-family: monospace;
+  color: darkblue;
+  text-align: center;
+  background: lightslategray
+} 
+
+body {
+  text-align: center;
+  background-color: lightblue;
+}
+
+.group-item {
+  text-align:left;
+  font-size: 15px;
+  font-family:monospace;
+}
+
+.text {
+  text-align: left;
+  font-size: 20px;
+  font-family:'Courier New', Courier, monospace;
+  
+}
+
+button {
+  text-align: left;
+  cursor: pointer;
+}
+
+.card-body {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  text-align:let;
+}
+
+.container-fluid {
+  padding: 2px 16px;
+}
